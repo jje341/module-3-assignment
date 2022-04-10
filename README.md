@@ -1,4 +1,4 @@
-# module-3-assignment
+# jje341.module-3-assignment
 This is my password generator assignment
 
 
